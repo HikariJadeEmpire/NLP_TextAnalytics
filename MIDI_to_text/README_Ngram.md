@@ -1,4 +1,4 @@
-# NLP_TextAnalytics
+# TextAnalytics with N-grams
 **GOAL :** <br>
 > Make a new MIDI file by grouping similar songs using n-grams.
 
