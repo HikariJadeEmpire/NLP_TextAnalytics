@@ -10,6 +10,6 @@
 
 ### Result
 
-[![](https://img.shields.io/badge/.MIDI-my_midi-rgb(84,153,199)?style=f?style=flat-square)]()
+[![](https://img.shields.io/badge/.MIDI-my_midi-rgb(84,153,199)?style=f?style=flat-square)](https://github.com/HikariJadeEmpire/NLP_TextAnalytics/blob/main/MIDI_to_text/my-midi.midi)
 
 *NOTE :* This MIDI file was made with the GarageBand app on an iPad and then converted using a [website](https://anyconv.com/wav-to-midi-converter/)
